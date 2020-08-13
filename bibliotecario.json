@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"username": "bibliotecario",
+	"password": "bibliotecario",
+	"port": 3306,
+	"database": "BD_PROJECT"
+}
